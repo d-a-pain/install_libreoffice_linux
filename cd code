@@ -1,0 +1,4 @@
+cd LibreOffice_$version_Linux_x86-deb/DEBS/ 
+
+
+cd LibreOffice_$version_Linux_x86-rpm/RPMS/
