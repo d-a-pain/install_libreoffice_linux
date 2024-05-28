@@ -1,0 +1,3 @@
+tar zxvf LibreOffice_$version_Linux_x86-deb.tar.gz 
+
+tar zxvf LibreOffice_$version_Linux_x86-rpm.tar.gz
