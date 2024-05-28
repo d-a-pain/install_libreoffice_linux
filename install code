@@ -1,0 +1,8 @@
+(Debian / Ubuntu / Mint)
+sudo dpkg -i *.deb
+
+Fedora / CentOS
+su -c 'yum install *.rpm'
+
+Mandriva / Mageia
+su -c 'urpmi *.rpm'
