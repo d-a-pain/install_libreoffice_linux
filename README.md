@@ -3,7 +3,7 @@
 silahkan download libreoffice di link berikut:
 https://www.libreoffice.org/download/download-libreoffice/
 
-download versi 7.6.7 bukan versi 24.2.3 (second choice not first choice)
+download versi 7.6.7 bukan versi 24.2.3 (pilihan kedua)
 
 file .deb digunakan untuk distro (Debian / Ubuntu / Mint)
 
